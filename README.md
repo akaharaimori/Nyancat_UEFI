@@ -12,7 +12,9 @@ Here is a photo of the UEFI application running on real hardware:
 
 ![UEFI Nyancat running on real hardware](demo/IMG_20260601_185432.jpg)
 
-<video src="demo/VID_20260601_185503.mp4" width="100%" controls muted autoplay loop></video>
+Here is a video demonstrating the smooth, 100% flicker-free graphics and the nostalgic PC speaker sound in action on YouTube:
+
+[![Watch UEFI Nyancat Demo on YouTube](https://img.youtube.com/vi/ZY-7qCbnmY4/0.jpg)](https://www.youtube.com/watch?v=ZY-7qCbnmY4)
 
 ## ✨ Features
 

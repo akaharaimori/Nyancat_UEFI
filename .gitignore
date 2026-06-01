@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# If you want users to compile headers themselves, uncomment these:
+# nyancat_frames.h
+# nyancat_audio.h
